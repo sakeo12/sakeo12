@@ -1,6 +1,6 @@
 ### 안녕하세요!! 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=sungi&fontSize=90&fontAlign=70&fontAlignY=40&desc=Welcome%20to%20My%20Profile!&descAlign=70&descAlignY=55&font=GitHub" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=sungi&fontSize=90&fontAlign=70&fontAlignY=40&desc=Sungil%20Github&descAlign=70&descAlignY=55&font=GitHub" />
 
 <!--
 **sakeo12/sakeo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
