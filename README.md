@@ -1,4 +1,5 @@
-### 안녕하세요!! 스마트IT학부 2학년 오성일입니다!!👋
+### <h1>안녕하세요!! 👋 </h1>
+<h2>스마트IT학부 2학년 오성일입니다!!</h2>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sungil%20Github&fontSize=70&fontAlign=70&fontAlignY=40&font=GitHub" />
 
