@@ -29,6 +29,8 @@
 Python, C++, JavaScript, Java 그리고 최신 웹 기술들(HTML, CSS, React, Node.js 등)을 깊이 있게 이해하고, 실무에서 활용할 수 있는 수준으로 향상시키기.
 <h3>목표 설정</h3>
 장기적이고 단기적인 목표를 설정하고, 이를 달성하기 위한 구체적인 계획 수립하기.
+<h2>📞 연락 방법 </h2>
+이메일: sakeo1221@gmail.com
 <!--
 **sakeo12/sakeo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
