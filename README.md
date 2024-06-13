@@ -5,7 +5,9 @@
 
 <h2>📖 현재 배우고 있는 것</h2>
 -- 프로그래밍 언어--
-<img src="https://img.shields.io/badge/Python-3376AB?logo=Pyhton">
+<img src="https://img.shields.io/badge/Python-3376AB?logo=Pyhton">, <img src="https://img.shields.io/badge/C-A8B9CC?logo=C">, <img src="https://img.shields.io/badge/C++-00599C?logo=c++">
+--웹 개발 기초--
+<img src="https://img.shields.io/badge/HTML-E34F26?logo=HTML5">, <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3">, <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript">
 
 
 <!--
