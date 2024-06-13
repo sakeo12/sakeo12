@@ -3,8 +3,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sungil%20Github&fontSize=70&fontAlign=70&fontAlignY=40&font=GitHub" />
 
-## 📖 현재 배우고 있는 것
--- 프로그래밍 언어--: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+<h2>## 📖 현재 배우고 있는 것</h2>
+-- 프로그래밍 언어--
+<a href ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 <!--
 **sakeo12/sakeo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
